@@ -3,11 +3,12 @@
 
 ### Photos
 
-Interior and Exterior Photos
+
+[Interior and Exterior Photos](https://drive.google.com/drive/folders/1cq4hsn5N53gUUuoR9xaAgkH_wTXvydxg?usp=sharing)
 
 ### Logs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brettks/n5633q/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Logbook entries](https://drive.google.com/drive/folders/1mpLyQCw3eCeUWq_6OkWgDk3FyAmdFrkr?usp=sharing)
 
 ### Q&As
 
