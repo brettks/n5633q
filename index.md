@@ -1,5 +1,15 @@
 ## N5633Q 1965 Mooney M20C
 
+TTAF 3085
+SMOH 1196
+Oil changes every ~30 hours with camguard
+Always hangared, never stored near coast
+No corrosion
+Leather interior
+Oil preheater
+
+
+
 
 ### Photos
 
