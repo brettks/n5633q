@@ -13,12 +13,13 @@ Oil preheater\
 
 ### Photos
 
+<a href="https://drive.google.com/drive/folders/1cq4hsn5N53gUUuoR9xaAgkH_wTXvydxg?usp=sharing" target="_blank">Interior and Exterior Photos</a>
 
-[Interior and Exterior Photos](https://drive.google.com/drive/folders/1cq4hsn5N53gUUuoR9xaAgkH_wTXvydxg?usp=sharing)
 
 ### Logs
 
-[Logbook entries](https://drive.google.com/drive/folders/1mpLyQCw3eCeUWq_6OkWgDk3FyAmdFrkr?usp=sharing)
+<a href="https://drive.google.com/drive/folders/1mpLyQCw3eCeUWq_6OkWgDk3FyAmdFrkr?usp=sharing" target="_blank">Logbook entries</a>
+
 
 ### Q&As
 
