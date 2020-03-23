@@ -7,7 +7,7 @@ Always hangared, never stored near coast\
 No corrosion\
 Leather interior\
 Oil preheater\
-
+155mph on 10gph\
 
 
 
